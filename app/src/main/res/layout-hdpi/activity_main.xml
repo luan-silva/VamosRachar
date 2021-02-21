@@ -16,7 +16,7 @@
         android:gravity="center_horizontal"
         android:text="@string/main_title"
         android:textColor="#FFFFFF"
-        android:textSize="50sp" />
+        android:textSize="40sp" />
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -47,7 +47,7 @@
                 android:backgroundTint="#FFFFFF"
                 android:inputType="numberDecimal"
                 android:textColorHint="#FFF"
-                android:textSize="50sp" />
+                android:textSize="30sp" />
         </com.google.android.material.textfield.TextInputLayout>
 
     </LinearLayout>
@@ -82,7 +82,7 @@
                 android:backgroundTint="#FFFFFF"
                 android:inputType="number"
                 android:textColorHint="#FFFFFF"
-                android:textSize="50sp" />
+                android:textSize="30sp" />
         </com.google.android.material.textfield.TextInputLayout>
     </LinearLayout>
 
